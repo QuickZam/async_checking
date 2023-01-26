@@ -15,3 +15,5 @@ pyclipper
 rapidfuzz
 langdetect
 huggingface-hub
+gunicorn
+wfastcgi
